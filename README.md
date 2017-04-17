@@ -1,5 +1,4 @@
 # reactter
-React project
 
 Basic React app
 
